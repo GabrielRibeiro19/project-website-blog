@@ -10,6 +10,8 @@ Na página dos conteúdos é onde fica nosso blog, com a imagem da notícia, uma
 
 Esse projeto foi criado seguindo o curso de NextJS do Sujeito Programador.
 
+Utilizamos também o conceito de getStaticProps do NextJS para criar páginas estáticas deixando o projeto muito mais rápido.
+
 ### `Projeto Online`
 
 Para ver o projeto online é só clicar [aqui](https://project-website-blog.vercel.app/) ou acessar pelo link [https://project-website-blog.vercel.app/](https://project-website-blog.vercel.app/).
