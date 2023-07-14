@@ -14,5 +14,5 @@ Utilizamos também o conceito de getStaticProps do NextJS para criar páginas es
 
 ### `Projeto Online`
 
-Para ver o projeto online é só clicar [aqui](https://project-website-blog.vercel.app/) ou acessar pelo link [https://project-website-blog.vercel.app/](https://project-website-blog.vercel.app/).
+Para ver o projeto online é só clicar [aqui](https://blogsujeito.gribeiro.dev) ou acessar pelo link [https://blogsujeito.gribeiro.dev](https://blogsujeito.gribeiro.dev).
 
